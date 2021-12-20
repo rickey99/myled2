@@ -5,7 +5,7 @@
 #include <linux/uaccess.h>
 #include <linux/io.h>
 
-MODULE_AUTHOR("Ryuichi Ueds");
+MODULE_AUTHOR("Ryuichi Ueda");
 MODULE_DESCRIPTION("druver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
