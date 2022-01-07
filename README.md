@@ -7,7 +7,7 @@ driver for LED control
 sudo insmod myled2.koでインストール。
 
 
-sudo rmmod myled2でアンインストール。
+sudo rmmod myled2.koでアンインストール。
 
 make cleanでカーネルモジュールを消去。
 
